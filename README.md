@@ -2,6 +2,33 @@
 
 This is a simple e-commerce frontend enhanced with an AI-powered smart search feature. The app allows users to search for products with natural language queries like "jewelry under $20" or "electronics above 300", and intelligently matches the intent using semantic similarity.
 
+
+
+#🤖 AI Feature Chosen
+🔍 Smart Semantic Search
+
+We implemented a smart product search feature that:
+
+Understands fuzzy category names (e.g., "men" → "men's clothing")
+
+Detects price modifiers (e.g., "under 50", "no more than 100", "approximately 300")
+
+Supports natural language search with synonyms and typos
+
+Uses semantic similarity (Dice coefficient + string similarity) to match input
+
+#🧰 Tools & Libraries Used
+
+React – Frontend framework
+
+string-similarity – For fuzzy matching categories
+
+Custom Dice Coefficient – For word-level semantic comparison
+
+JavaScript Regex – For numeric and modifier parsing
+
+GitHub + GitHub Desktop – Version control
+
 ---
 
 ## 🛠 How to Run the App
