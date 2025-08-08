@@ -10,23 +10,23 @@ This is a simple e-commerce frontend enhanced with an AI-powered smart search fe
 
 - Understands fuzzy category names (e.g., "men" → "men's clothing")
 
-Detects price modifiers (e.g., "under 50", "no more than 100", "approximately 300")
+- Detects price modifiers (e.g., "under 50", "no more than 100", "approximately 300")
 
-Supports natural language search with synonyms and typos
+- Supports natural language search with synonyms and typos
 
-Uses semantic similarity (Dice coefficient + string similarity) to match input
+- Uses semantic similarity (Dice coefficient + string similarity) to match input
 
 # 🧰 Tools & Libraries Used
 
-React – Frontend framework
+- React – Frontend framework
 
-string-similarity – For fuzzy matching categories
+- string-similarity – For fuzzy matching categories
 
-Custom Dice Coefficient – For word-level semantic comparison
+- Custom Dice Coefficient – For word-level semantic comparison
 
-JavaScript Regex – For numeric and modifier parsing
+- JavaScript Regex – For numeric and modifier parsing
 
-GitHub + GitHub Desktop – Version control
+- GitHub + GitHub Desktop – Version control
 
 ---
 
