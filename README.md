@@ -4,7 +4,7 @@ This is a simple e-commerce frontend enhanced with an AI-powered smart search fe
 
 
 # 🤖 AI Feature Chosen
-🔍 Smart Semantic Search
+🔍 Smart Product Search (NLP): Option A
 
 - Implemented a smart product search feature that:
 
