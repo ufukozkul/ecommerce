@@ -28,6 +28,8 @@ This is a simple e-commerce frontend enhanced with an AI-powered smart search fe
 
 - GitHub + GitHub Desktop – Version control
 
+# Bonus
+This AI-powered smart search can be integrated with blockchain by enabling token-gated pricing, where users holding specific tokens gain access to exclusive discounts or products. Additionally, on-chain user preferences can personalize recommendations while ensuring data privacy and transparency. Loyalty rewards can be managed through smart contracts, automatically granting tokens or benefits based on user interactions and purchases.
 ---
 
 ## 🛠 How to Run the App
