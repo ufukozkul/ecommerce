@@ -35,7 +35,11 @@ This is a simple e-commerce frontend enhanced with an AI-powered smart search fe
 1. **Install Dependencies**  
    Make sure you have Node.js installed. Then run:
 ## Run Locally
+Clone the project
 
+```bash
+  git clone https://github.com/ufukozkul/ecommerce.git
+```
 
 Go to the project directory
 
